@@ -1,0 +1,56 @@
+.container{
+text-align:center;
+margin-left: 4%;
+font-size: 110px;
+font-family: 'Amatic SC', cursive;
+}
+.logo{
+  margin-left: 41%;
+  margin-top: 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+a {
+    color: #4682B4;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+p {
+    margin: 10px 0;
+    font-size: 40px;
+}
+
+form {
+    margin-top: 6%;
+    font-family: 'Amatic SC', cursive;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin-left: 39%;
+}
+
+input {
+   font-family: 'Amatic SC', cursive;
+    margin: 10px 0;
+    padding: 10px;
+    border: unset;
+    border-bottom: 2px solid #e3e3e3;
+    outline: none;
+    font-size: 40px;
+}
+
+button {
+   font-family: 'Amatic SC', cursive;
+    padding: 10px;
+    background: #4682B4;
+    border: unset;
+    cursor: pointer;
+    font-size: 40px;
+}
